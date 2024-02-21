@@ -1,5 +1,5 @@
 ### 苏子有诗云：一点浩然气，千里快哉风 👋
-<img align="right" width="200" src="https://img.keaitupian.cn/newupload/03/1679109430600331.jpg">
+<!--<img align="right" width="200" src="https://img.keaitupian.cn/newupload/03/1679109430600331.jpg"> -->
 
 <!--
 **HaoRangQi/HaoRangQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
